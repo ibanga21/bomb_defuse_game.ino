@@ -34,5 +34,7 @@ If the correct code is entered in time, the system is “defused.” If the time
 ## Code
 All logic is implemented in a single Arduino `.ino` file using the Keypad and LiquidCrystal libraries.
 
+Watch a Demo: https://youtube.com/shorts/31lbjv0UWuI?feature=share
+
 ## Author
 Jacob Mettle
